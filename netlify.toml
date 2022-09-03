@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/test/*"
+  to = "https://cheery-manatee-a5e4ff.netlify.app/:splat"
+  status = 200
